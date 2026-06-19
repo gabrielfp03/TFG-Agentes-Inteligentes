@@ -1,0 +1,46 @@
+# ===== Credenciales y secretos (NUNCA subir) =====
+.env
+*.env
+!.env.example
+bot_telegram.txt
+*token*.txt
+*secret*
+
+# ===== Clon completo de Langflow (no es código del proyecto) =====
+Docker/langflow/
+
+# ===== Ejecutables compilados (subir solo los .bat) =====
+*.EXE
+*.exe
+
+# ===== Memoria del TFG (va aparte del repo de código) =====
+*.tex
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.synctex.gz
+references.bib
+imagenes/
+Otros TFGs/
+Plantilla_TFG*
+
+# ===== Sistema operativo / editores =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
