@@ -69,7 +69,6 @@ Usuario ──▶ Langflow (Docker) ──▶ Agente Tool Calling ──▶ Gemi
 │   └── bd.bat
 └── docs/
     ├── sprints/              # actas del desarrollo (metodología ágil)
-    └── Comparativa_Software_IA_Pymes.xlsx
 ```
 
 ---
@@ -89,7 +88,7 @@ Usuario ──▶ Langflow (Docker) ──▶ Agente Tool Calling ──▶ Gemi
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/gabrielfp03/TFG-Paquita.git
+   git clone https://github.com/gabrielfp03/TFG-Agentes-Inteligentes.git
    cd TFG-Paquita
    ```
 
