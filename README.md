@@ -88,7 +88,7 @@ Usuario ──▶ Langflow (Docker) ──▶ Agente Tool Calling ──▶ Gemi
 1. **Clonar el repositorio**
    ```bash
    git clone https://github.com/gabrielfp03/TFG-Agentes-Inteligentes.git
-   cd TFG-Paquita
+   cd TFG-Agentes-Inteligentes
    ```
 
 2. **Configurar las credenciales**
