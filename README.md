@@ -67,8 +67,7 @@ Usuario ──▶ Langflow (Docker) ──▶ Agente Tool Calling ──▶ Gemi
 │   ├── Panel_De_Control.bat
 │   ├── subida_prompt.bat
 │   └── bd.bat
-└── docs/
-    ├── sprints/              # actas del desarrollo (metodología ágil)
+└── sprints/                  # actas del desarrollo (metodología ágil)            
 ```
 
 ---
